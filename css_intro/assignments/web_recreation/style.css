@@ -1,0 +1,38 @@
+.head{
+    background-color: lightgreen;
+    padding: 1px;
+    margin: 5px;
+}
+.firsth {
+    background-color: plum;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+.secondh{
+    background-color: lightsalmon;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.body {
+    background-color: lightpink;
+
+}
+.parastyle {
+    text-align: left;
+    background-color: lightblue;
+    padding: 5px;
+}
+.list {
+    background-color: lightyellow;
+    text-align: left;
+    margin: 10px;
+    padding: 1px;
+}
+.foot {
+    background-color: lightgrey;
+    text-align: center;
+}
